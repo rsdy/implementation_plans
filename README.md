@@ -28,10 +28,10 @@ Target date: Code freeze in mid-March/early April, dispatching ASAP after that
  * pack things up
  * send out first batch
 
-[android application]: /android_app.html
-[*dav software]:       /dav.html
-[admin interface]:     /admin_iface.html
-[operating system]:    /operating_system.html
-[tor]:                 /tor.html
-[cases]:               /case.html
-[parts]:               /parts.html
+[android application]: implementation_plans/blob/master/android_app.md
+[*dav software]:       implementation_plans/blob/master/dav.md
+[admin interface]:     implementation_plans/blob/master/admin_iface.md
+[operating system]:    implementation_plans/blob/master/operating_system.md
+[tor]:                 implementation_plans/blob/master/tor.md
+[cases]:               implementation_plans/blob/master/case.md
+[parts]:               implementation_plans/blob/master/parts.md
