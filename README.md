@@ -7,7 +7,7 @@ Target date: Code freeze in early/mid-December, dispatching ASAP after that
  * complete the modifications in the [*dav software][*dav software]
  * complete the preliminary [admin interface][admin interface]
  * set up [operating system][operating system]
- * set up [tor][tor]
+ * set up tor hidden services to expose the DAV stuff
  * design [cases][cases]
  * create disk image
  * order the [parts][parts]
@@ -22,7 +22,6 @@ Target date: Code freeze in mid-March/early April, dispatching ASAP after that
  * complete the [android application][android application]
  * complete the [admin interface][admin interface]
  * set up [operating system][operating system]
- * set up [tor][tor]
  * create disk image
  * order the [parts][parts]
  * pack things up
@@ -32,6 +31,5 @@ Target date: Code freeze in mid-March/early April, dispatching ASAP after that
 [*dav software]:       implementation_plans/blob/master/dav.md
 [admin interface]:     implementation_plans/blob/master/admin_iface.md
 [operating system]:    implementation_plans/blob/master/operating_system.md
-[tor]:                 implementation_plans/blob/master/tor.md
-[cases]:               implementation_plans/blob/master/case.md
+[cases]:               implementation_plans/blob/master/cases.md
 [parts]:               implementation_plans/blob/master/parts.md
